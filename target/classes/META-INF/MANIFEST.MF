@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ismp-template
+Implementation-Version: 1.0.2
+Built-By: zhouhao
+Implementation-Vendor-Id: com.kedacom.ismp
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/common/ismp-template
+Created-By: Maven Integration for Eclipse
+
